@@ -1,8 +1,8 @@
 # Headline
 
-x <- rnorm(500)
-y <- rnomr(500)
+x <- rnorm(200)
+y <- rnomr(200)
 
 # Important feature
 
-# New feature 
+# Normal development
